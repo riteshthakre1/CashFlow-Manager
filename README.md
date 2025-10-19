@@ -2,8 +2,6 @@
 
 A **complete, enterprise-grade banking management system** built with Java, JavaFX, and SQL. This application provides a professional, feature-rich GUI interface for managing all aspects of banking operations including customer management, account handling, money transfers, card management, loans, investments, employee management, and comprehensive reporting.
 
-![Banking System](https://img.shields.io/badge/Java-11+-blue.svg)
-
 ## 🚀 Complete Feature Set
 
 ### 💼 Core Banking Operations
